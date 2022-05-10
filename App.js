@@ -9,7 +9,7 @@ export default function App() {
     }]}>
       <View style={{ flex: 1.5, backgroundColor: "green" }} />
       <View style={{ flex: 1, backgroundColor: "red" }} />
-      <View style={{ flex: 3, backgroundColor: "blue" }} />
+      <View style={{ flex: 2.7, backgroundColor: "blue" }} />
     </View>
   );
 }
